@@ -1,7 +1,7 @@
 Flask skeleton for google app engine. using buildout.
 
-Installation
-============
+Usage
+=====
 
 ::
 
