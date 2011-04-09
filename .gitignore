@@ -4,4 +4,6 @@ downloads
 eggs
 bin
 parts
+src
+myapp
 .installed.cfg
